@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  border: 2px solid grey;
+  padding: 5px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  flex: 1 1 0;
+}
+
+main {
+  margin: 0 auto;
+  border: 5px solid grey;
+  width: 50%;
+  height: 450px
+}
+
+.p1 {
+  background-color: lightgreen;
+}
+
+.p2 {
+  background-color: lightblue;
+}
+
+#btnContainer {
+  padding: 0;
+  width: 100%;
+  display: inline-flex;
+}
+
+#imgDiv {
+ padding: 0; 
+}
